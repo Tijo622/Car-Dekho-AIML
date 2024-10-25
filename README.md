@@ -1,7 +1,7 @@
 Car Dheko - Used Car Price Prediction
 
-Process Flow of Project
-Understanding Problem Statement
+Process Flow of Project:
+Understanding Problem Statement and 
 Getting System Ready
 Data Collection
 Understanding the Data-Data Eyeballing & Data Description
