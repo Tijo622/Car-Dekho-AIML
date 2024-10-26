@@ -24,7 +24,7 @@ Approach:
 We propose to develop a machine learning model that can predict the price of a used car based on its features. The model will be trained on a dataset of used cars that have been sold on Cardekho.com in India. The model will then be able to be used to predict the price of any used car, given its features.
 
 Objective
-To build suitable Machine Learning Model for Used Car Price Prediction.Here, I have used GradientBoost Regressor Model to predict the car price which gives good accuracy range.
+To build suitable Machine Learning Model for Used Car Price Prediction.Here,GradientBoost Regressor model gives best result and good accuracy and deployed using Streamlit to create an interactive web application.
 
 Benefits:
 The benefits of this solution include:
